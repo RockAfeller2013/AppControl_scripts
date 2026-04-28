@@ -1,7 +1,7 @@
 # Carbon Black Health Check 
 
 ```
-Reece, 
+
 
 I added the thread below to the chat a couple of weeks ago. 
 
