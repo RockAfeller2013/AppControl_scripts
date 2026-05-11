@@ -8,14 +8,15 @@ The script is designed to be executed in the customer’s environment in order t
 
 ## Download Script
 
-```
+```powershell
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/RockAfeller2013/AppControl_scripts/refs/heads/main/HealthCheck/ac_ta.ps1" -OutFile "ac_ta.ps1"
 iwr "https://raw.githubusercontent.com/RockAfeller2013/AppControl_scripts/refs/heads/main/HealthCheck/ac_ta.ps1" -OutFile "ac_ta.ps1"
 ```
 
 ## Run script
 
-```
+```powershell
+
 PowerShell -ExecutionPolicy Bypass -File "C:\Users\Administrator\Downloads\App_Control_On-Prem_Script\ac_ta.ps1"
 
 ```
