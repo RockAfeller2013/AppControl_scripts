@@ -4,7 +4,7 @@ The script is designed to be executed in the customer’s environment in order t
 
 ## Setup API Key as per following 
 - Create an API User and Get its API Token https://techdocs.broadcom.com/us/en/carbon-black/app-control/carbon-black-app-control/8-11-2/app-control-user-guide_tile/GUID-757E4F0C-1A20-4B38-B7D6-B8063C71C02C-en/GUID-47338240-780C-4B97-9921-285EEEF06F4C-en/GUID-6529F642-7C7D-4AFE-90DD-EB3448F98106-en.html
-- This is a Read only script, but it doesnt need access to Admin and API roles, create a Group with API access and then add that new users and provide the API Role and Admin access.
+- This is a Read only script, but it does need access to Admin and API roles, create a Group with API access and then add that new users and provide the API Role and Admin access.
 
 ## Download Script
 
