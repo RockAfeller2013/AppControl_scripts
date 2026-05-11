@@ -1,4 +1,4 @@
-# Version 11.05.2026 v1
+# Version 11.05.2026 v2
 param (
         [Parameter(Mandatory=$true)][string]$server,
         [Parameter(Mandatory=$true)][string]$api_key
