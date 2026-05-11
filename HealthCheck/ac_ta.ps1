@@ -1,3 +1,4 @@
+# Version 11.05.2026 v1
 param (
         [Parameter(Mandatory=$true)][string]$server,
         [Parameter(Mandatory=$true)][string]$api_key
