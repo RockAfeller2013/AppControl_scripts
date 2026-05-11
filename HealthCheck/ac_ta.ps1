@@ -123,7 +123,7 @@ $resources = @(
     ("customRule", "/api/bit9platform/restricted/customRule?limit=", 0),
     ("approvalRequest", "/api/bit9platform/v1/approvalRequest?sort=dateCreated DESC&limit=", 10000),
     ("block_events", "/api/bit9platform/v1/event?q=subtype:801&sort=receivedTimestamp DESC&limit=", 10000),
-    ("agent_config", "/api/bit9platform/restricted/agentConfig?limit=", 0),
+	("agent_config", "/api/bit9platform/v1/agentConfig?limit=", 0),
     ("cache_checks", "/api/bit9platform/v1/event?q=subtype:426&q=timestamp>-30d&limit=", 0),
     ("oldest_event", "/api/bit9platform/v1/event?sort=receivedtimestamp&limit=", 1),
     ("newest_event", "/api/bit9platform/v1/event?sort=receivedtimestamp DESC&limit=", 1),
